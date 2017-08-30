@@ -1,0 +1,48 @@
+@CHARSET "UTF-8";
+#photo {
+	width:auto;
+	height:auto;
+	border:2px solid #ccc;
+	font-size:12px;
+	background:#eee;
+}
+#photo h2 {
+	text-indent:0;
+	text-align:center;
+}
+#photo p {
+	text-align:center;
+	padding:20px;
+	clear:both;
+}
+#photo p a {
+	font-size:14px;
+	color:#333;
+}
+#photo dl {
+	float:left;
+	text-align:center;
+	height:250px;
+	width:200px;
+	margin:18px;
+	
+}
+#photo dl dt img {
+	border:none;
+	width:180px;
+	height:180px;
+}
+#photo dl dd {
+	padding:2px 0;
+}
+#photo dl dd a {
+	color:blue;
+	text-decoration:none;
+
+}
+#photo dl dd a:hover {
+	color:#f60;
+	text-decoration:none;
+
+}
+
